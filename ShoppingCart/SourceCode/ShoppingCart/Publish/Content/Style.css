@@ -1,0 +1,25 @@
+﻿h3{
+       color: purple;
+       font-size: 35px;
+    }
+    .Login{
+      margin-top: 28px;
+      padding: 35px;
+      border: 1px solid purple;
+      width: 300px;
+      margin: auto;
+      border-radius: 9px;  
+    }
+    #txtUsername{
+     margin: 0.5em 0.5em 0.5em 0.5em;
+    }
+    #txtPassword{
+     margin: 0.5em 0.5em 0.5em 0.5em;
+    }
+    .status
+       {
+           color:red;
+           text-align:center;
+           margin-top:10px;
+       }
+        

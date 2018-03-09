@@ -1,0 +1,66 @@
+﻿h3{
+    color:purple;
+    font-size: 30px;
+}
+
+#menubar ul li {
+    float: left;
+    list-style: none;
+    margin-right: 18px;
+    font-size: 15px;
+    text-align: center;
+    height: 20px;
+    padding: 20px 20px;   
+}
+ 
+div#p_image img {
+    width: 200px;
+    height: 200px;
+}
+.product {
+    float: left;
+    text-align: center;
+    border: 1px solid #000;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    background: pink;
+}
+div#menubar {
+    width: 100%;
+    float: left;
+    background: pink;    
+}
+.cart input {
+    background: purple;
+    color: #FFEB3B;
+    border: none;
+    padding: 7px;
+    width: 100px;
+    margin-top: 12px;
+}
+.P_name {
+    font-size: 17px;
+    margin-top: 10px;
+    color: #b03812;
+    margin-bottom: 6px;
+}
+.btn1{
+    float: right;
+}
+.btn2{
+    float: right;
+}
+#menubar ul li:hover{
+     color: white;
+     background: #9d31ac;   
+}
+#menubar ul li a {
+    text-decoration: none;
+}
+body{
+    background-color: peachpuff;
+}
